@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "cookies": "^0.8.0",
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.16",
     "next": "10.0.6",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "util": "^0.12.3",
+    "validator": "^13.5.2"
   }
 }
